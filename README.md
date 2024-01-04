@@ -2,7 +2,7 @@
 
 ## To install the cosign in your Jenkins machine: 
 
-You can refer to [this tutorail](https://edu.chainguard.dev/open-source/sigstore/cosign/how-to-install-cosign/#installing-cosign-with-the-cosign-binary) to install the cosign in your Jenkins machine.
+You can refer to [this tutorial](https://edu.chainguard.dev/open-source/sigstore/cosign/how-to-install-cosign/#installing-cosign-with-the-cosign-binary) to install the cosign in your Jenkins machine.
 
 You can use the `wget` command to install the most recent binary. In our example, the release we are installing is 2.0.0.
 
@@ -26,7 +26,7 @@ You should have an outpout like that :
 
 ## Sign your Docker image : 
 
-You can refer to [this tutorail](https://edu.chainguard.dev/open-source/sigstore/cosign/how-to-sign-a-container-with-cosign/) to sign your Docker images.
+You can refer to [this tutorial](https://edu.chainguard.dev/open-source/sigstore/cosign/how-to-sign-a-container-with-cosign/) to sign your Docker images.
 
 For exemple: 
 
