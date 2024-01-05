@@ -24,10 +24,14 @@ You should have an outpout like that :
 
 ![Cosign versoin output](https://alphasec.io/content/images/2022/11/Cosign-version-2.png)
 
-## Sign your Docker image : 
+## Sign your Docker image: 
 
 You can refer to [this tutorial](https://edu.chainguard.dev/open-source/sigstore/cosign/how-to-sign-a-container-with-cosign/) to sign your Docker images.
 
 For exemple: 
 
   `cosign sign l267t8qk.c1.de1.container-registry.ovh.net/ecommerce/stages/fuse-dashboard@sha256:ea08af50baa8659dfeef1ccc714787d4a04f2d993b8f4002008f0e94c6dcbe94`
+
+## Sign your Docker image with Jenkins pipeline: 
+
+You can refer to [this tutorial](https://www.youtube.com/watch?v=Hj4CAGwcN74) to sign your Docker images inside the Jenkins pipeline.
